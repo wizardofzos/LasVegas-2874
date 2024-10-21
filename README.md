@@ -1,6 +1,6 @@
 # Demo repo
 
-![alt text](https://github.com/wizardofzos/LasVegas-2874/blob/main/img.png?raw=true)
+![alt text](https://github.com/wizardofzos/LasVegas-2874/blob/main/gfx/img.png?raw=true)
 
 ## How to use
 
